@@ -1,3 +1,5 @@
+package JavaS2;
+
 import java.util.Scanner; // 1. Importăm unealta
 
 public class Interactiune {

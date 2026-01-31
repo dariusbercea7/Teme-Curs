@@ -8,24 +8,27 @@ public class MiniCalculator {
         System.out.println("Care este primul numar?");
         double nr1 = cititor.nextDouble();
         System.out.println("Care este al doilea numar numar?");
-        double  nr2= cititor.nextDouble();
+        double nr2 = cititor.nextDouble();
         System.out.println("+, -, *, / ");
-        char x=cititor.next().charAt(0);
+        char x = cititor.next().charAt(0);
 
-        double result =0;
-        if (x == '+'){
+        double result = 0;
+        if (x == '+') {
             result = nr1 + nr2;
         }
-        if (x == '-'){
+        if (x == '-') {
             result = nr1 - nr2;
         }
-        if (x == '*'){
+        if (x == '*') {
             result = nr1 * nr2;
         }
-        if (x == '/'){
+        if (x == '/') {
             result = nr1 / nr2;
         }
         System.out.println(result);
+
+
+
 
 
 

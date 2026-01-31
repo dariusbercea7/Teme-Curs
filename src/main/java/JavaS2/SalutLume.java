@@ -1,3 +1,5 @@
+package JavaS2;
+
 public class SalutLume {
     // Metoda 'main' este punctul de start al oricărei aplicații Java
     public static void main(String[] args) {
