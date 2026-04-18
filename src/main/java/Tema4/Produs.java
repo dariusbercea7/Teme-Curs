@@ -39,7 +39,7 @@ public class Produs {
        }
 
     }
-    void prezentareProdus (){
+     public void prezentareProdus (){
         System.out.println("Produsul tau: " + getNumeProdus() + getPret() + getStoc());
     }
 }
