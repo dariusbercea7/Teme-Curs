@@ -1,27 +1,27 @@
-# Teme Curs Java
+# Java Course Assignments
 
-Colecție de exerciții și mini-proiecte realizate în Java pe parcursul cursului.
+A collection of Java exercises and mini-projects completed throughout the course.
 
-## Conținut
+## Contents
 
-Proiectul acoperă concepte fundamentale de programare orientată pe obiecte:
+The project covers core object-oriented programming concepts:
 
-- clase, obiecte, constructori și încapsulare;
-- moștenire, polimorfism și clase abstracte;
-- tratarea excepțiilor și validarea datelor de intrare;
-- mini-proiecte cu figuri geometrice și dispozitive inteligente.
+- classes, objects, constructors, and encapsulation;
+- inheritance, polymorphism, and abstract classes;
+- exception handling and input validation;
+- mini-projects involving geometric shapes and smart devices.
 
-## Tehnologii
+## Technologies
 
 - Java
 - Maven
 
-## Rulare
+## Running the Project
 
-1. Clonează repository-ul.
-2. Deschide proiectul într-un IDE Java (de exemplu IntelliJ IDEA).
-3. Rulează una dintre clasele care conțin metoda `main` din `src/main/java`.
+1. Clone the repository.
+2. Open the project in a Java IDE, such as IntelliJ IDEA.
+3. Run any class containing a `main` method under `src/main/java`.
 
-## Scop
+## Purpose
 
-Acest repository este un proiect de învățare. Codul este organizat pe teme și exemple practice pentru a fixa conceptele Java.
+This is a learning repository. The code is organised into assignments and practical examples that reinforce Java concepts.
